@@ -1,0 +1,28 @@
+{
+    "name": "versiony-cli",
+    "version": "1.2.4",
+    "description": "CLI for versiony npm package",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/radubrehar/versiony-cli.git"
+    },
+    "bin": {
+        "versiony": "./bin/cli.js"
+    },
+    "keywords": [
+        "version",
+        "manager",
+        "bower",
+        "package.json",
+        "cli"
+    ],
+    "dependencies": {
+        "versiony": "*",
+        "arguably": "*"
+    },
+    "author": "Radu Brehar",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/radubrehar/versiony-cli/issues"
+    }
+}
