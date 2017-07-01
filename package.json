@@ -5,7 +5,7 @@
     "preferGlobal": true,
     "repository": {
         "type": "git",
-        "url": "https://github.com/radubrehar/versiony-cli.git"
+        "url": "https://github.com/codeHatcher/versiony-cli.git"
     },
     "bin": {
         "versiony": "./bin/cli.js"
